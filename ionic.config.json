@@ -1,0 +1,7 @@
+{
+  "name": "FIREBASE-CITAS-MEDICAS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
